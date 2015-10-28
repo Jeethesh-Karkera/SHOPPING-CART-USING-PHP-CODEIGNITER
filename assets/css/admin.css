@@ -1,0 +1,33 @@
+a{
+	color:#000;
+	
+}
+.btng{
+	border:none;
+}
+.navbar {
+border-radius:0px !important;	
+background-color:#000; 
+}
+a:hover, a:active, a:focus {
+ outline: 0;
+}
+a {
+   outline: 0;
+}
+.badge-notify{
+   background:red;
+   position:relative;
+   top: -14px;
+   left: -5px;
+}
+body {
+ font-family:'Calibri';
+}
+.d-down{
+background-color:#000; 	
+}
+.dropdown-menu-sidebar{
+background-color:#000 !important; 	
+
+}
