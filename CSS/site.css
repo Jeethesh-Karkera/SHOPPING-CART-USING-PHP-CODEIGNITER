@@ -1,0 +1,39 @@
+th{
+color:#3090C7;
+
+
+}
+td{
+color:#000;
+font-family:Helvetica, sans-serif;
+}
+.addg{
+right:15px;
+position:absolute;
+top:5px;
+}
+#welcome-sidebar{
+position:absolute;
+top:100px;
+width:40%;
+background:#FCFCFA;
+
+}
+.col-md-4{
+left:0px;
+position:absolute;
+top:30px;
+
+}
+
+
+.lab{
+color:#3090C7;
+font-family:Andale Mono, monospace;
+}
+.bt{
+top:0px;
+position: absolute;
+}
+
+
